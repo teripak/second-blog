@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'teripak$default',
         'USER': 'admin',
         'PASSWORD': 'admin123',
-        'HOST': 'localhost',
+        'HOST': 'teripak.mysql.pythonanywhere-services.com',
         'PORT': '3306',
     }
 }
